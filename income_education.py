@@ -36,7 +36,7 @@ plt.xlabel('大学・大学院卒業割合【%】',fontname='MS Gothic')
 plt.ylabel('1人当たりの所得【千円】',fontname='MS Gothic')
 
 # グラフをpngに保存
-plt.savefig("temp_power_graph.png")
+plt.savefig("income_education_graph.png")
 
 # 散布図表示
 plt.show()
